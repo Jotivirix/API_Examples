@@ -1,0 +1,15 @@
+{
+  "name": "05-clima",
+  "version": "1.0.0",
+  "description": "Aplicacion de Clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Ignacio Navas Sanz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "yargs": "^16.0.3"
+  }
+}
