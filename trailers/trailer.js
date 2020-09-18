@@ -1,4 +1,5 @@
 //API Empleada --> https://rapidapi.com/IMDb-API/api/imdb-api1
+//Documentacion de la API especifica --> https://imdb-api.com/api/#YouTubeTrailer-header
 
 const axios = require('axios');
 
